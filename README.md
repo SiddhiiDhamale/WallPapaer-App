@@ -1,2 +1,2 @@
-# WallPapaer-App
+# WallPaper-App
 Wallapaper Application using Flutter
